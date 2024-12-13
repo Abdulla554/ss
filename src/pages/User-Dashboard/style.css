@@ -1,0 +1,25 @@
+.h11{
+    margin-top: 40px;
+}
+ 
+.conten{
+  margin-top: 100px;
+  height: 100px;
+  width: 800px;
+}
+.man{
+width: 970px;
+}
+.sml{
+  background: #544CA8;
+}
+
+
+.linef{
+    width: 1px;
+    height: 320px;
+    background-color: #C1BBEB;
+}
+.ints{
+    border: 2px solid white;
+}

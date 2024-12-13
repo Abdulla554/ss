@@ -10,7 +10,7 @@ function SidBar2() {
   return (
     <div className='main'>
     <div className='Sidba2 ' style={{ background:them.SidBar}}>
-<div className='   pt-5 px-4  '>
+<div className='   h-screen pt-5 px-4  '>
 
 <div className=' flex gap-6 justify-between'>
 <button style={{ background:them.gray}} className=' rounded-full w-10 h-10     text-center  '><NotificationsIcon /> </button>
@@ -64,11 +64,11 @@ View More
 
 
 
-<h4 style={{  color:them.gray}} className='mt-4 pl-5 mb-8'>Messages</h4>
+{/* <h4 style={{  color:them.gray}} className='mt-4 pl-5 mb-8'>Messages</h4> */}
 
 
 
-{[1,2,3,4,5].map((e)=>{
+{/* {[1,2,3,4,5].map((e)=>{
   return(
     <>
   <div style={{ color:them.gray }} className='  flex mt-3 w-64 mx-auto'>
@@ -84,7 +84,7 @@ View More
 })}
 <button  className=' rounded-full mt-4 mr-5 border-0 w-64 h-11' style={{color:them.fontColor, background:them.button }}>
 View More
-</button>
+</button> */}
 
 
 
@@ -110,7 +110,7 @@ View More
 
 
 
-
+{/* 
 <div className=' mt-5 '>
 <h5 className=' mr-3' style={{ color:them.fontColor }}>Current Foods Menu</h5>
 
@@ -134,7 +134,7 @@ View More
 View More
 </button>
 
-</div>
+</div> */}
 
 
 

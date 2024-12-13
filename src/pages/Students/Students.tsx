@@ -73,7 +73,7 @@ function Students() {
 
 <div
   style={{ color: them.fontColor, background: them.SidBar }}
-  className="  py-2 w-full"
+  className="  pt-2 w-full "
 >
   {[1,2,3,4,5,4,5].map((e, i) => {
     return (

@@ -13,7 +13,7 @@ import LocationOnOutlinedIcon from '@mui/icons-material/LocationOnOutlined';
 import MoreHorizIcon from '@mui/icons-material/MoreHoriz';
 import Schedule from "../Teacher/Schedule";
  
-function StudentDetails() {
+function TeachersDetails() {
     const them = useAppSelector((state) => state.theme.colors);
     const Arr=[{
       title:"Parents:",
@@ -233,4 +233,4 @@ function StudentDetails() {
   )
 }
 
-export default StudentDetails
+export default TeachersDetails
